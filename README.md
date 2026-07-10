@@ -1,7 +1,7 @@
 # Carlos Herbey Gamez Gaxiola
 > Ingeniero en software.
 
-¡Hola! Soy Herbey, un Ingeniero de Software en etapa final de formación, apasionado por transformar problemas complejos en software limpio, eficiente y centrado en el usuario.
+Soy Herbey, un Ingeniero de Software en etapa final de formación, apasionado por transformar problemas complejos en software limpio, eficiente y centrado en el usuario.
 
 Me especializo en construir aplicaciones Full-Stack desde el concepto hasta el despliegue, con un enfoque en el impacto en el mundo real, la arquitectura de backend robusta y el trabajo en equipo colaborativo.
 
@@ -12,7 +12,7 @@ Me especializo en construir aplicaciones Full-Stack desde el concepto hasta el d
 
 <br>
 
-## 🛠️ Mi Stack Tecnológico
+## Stack Tecnológico
 
 He construido proyectos usando estas tecnologías, con un enfoque especial en el ecosistema de JavaScript y el despliegue con contenedores.
 
@@ -41,7 +41,7 @@ He construido proyectos usando estas tecnologías, con un enfoque especial en el
 
 <br>
 
-## 🚀 Mis Proyectos Destacados
+## Proyectos Destacados
 
 ### 1. Sistema de Gestión de Comisiones Académicas (SGCA)
 Plataforma web integral diseñada para automatizar y digitalizar el proceso de solicitud de comisiones académicas para el personal docente. Este sistema transformó un flujo de trabajo manual en un proceso digital eficiente y organizado para un cliente real.
@@ -72,7 +72,7 @@ Construí la aplicación desde cero, desde la conceptualización y el diseño de
 
 <br>
 
-## 📊 Mis Estadísticas de GitHub
+## Mis Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Herbey1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Herbey1's GitHub Stats" />
@@ -81,7 +81,7 @@ Construí la aplicación desde cero, desde la conceptualización y el diseño de
 
 <br>
 
-## 📫 ¡Conectemos!
+## Contacto
 
 Estoy buscando activamente oportunidades para comenzar mi carrera y aportar valor a un equipo. ¡No dudes en contactarme!
 
