@@ -1,5 +1,5 @@
 # Carlos Herbey Gamez Gaxiola
-> Ingeniería de software para un mundo emergente.
+> Ingeniero en software.
 
 ¡Hola! Soy Herbey, un Ingeniero de Software en etapa final de formación, apasionado por transformar problemas complejos en software limpio, eficiente y centrado en el usuario.
 
