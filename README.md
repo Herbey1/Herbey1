@@ -58,16 +58,16 @@ Lideré el diseño de la base de datos, realicé la conexión completa entre el 
 <br>
 <br>
 
-### 2. Playlist Royale
-Una aplicación web social y competitiva donde los usuarios crean y enfrentan sus playlists. La comunidad determina las mejores a través de un sistema de "likes" y donaciones, fomentando el descubrimiento de nueva música.
+### 2. Memor.IA
+Una aplicación móvil y donde personas pueden acercarse más a sus familiares mayores mediante historias de vida. La aplicación entrevista, tú escuchas, tu familiar habla.
 
 **Mi Rol: Arquitecto y Desarrollador Único**
-Construí la aplicación desde cero, desde la conceptualización y el diseño de la interfaz hasta la implementación del backend, la lógica del juego y la integración con APIs externas.
+Construí la aplicación desde cero, desde la conceptualización y el diseño de la interfaz hasta la implementación del backend, la lógica de la aplicación y la integración con APIs externas.
 
-**Tecnologías:** `React` `Node.js` `[Tu Base de Datos, ej: MongoDB]` `Spotify API` `[API de Pagos, ej: Stripe]`
+**Tecnologías:** `Typescript` `Javascript` `Node.js` `npm` `Expo CLI` `DynamoDB`
 
-<a href="[URL_A_TU_REPOSITORIO_DE_PLAYLIST_ROYALE]" target="_blank">
-  <a href="https://github.com/Herbey1/ServicioP2" target="_blank">🔗 Ver repositorio del proyecto SGCA</a>
+<a href="[https://github.com/Herbey1/Memorias]" target="_blank">
+  <a href="https://github.com/Herbey1/Memorias" target="_blank">🔗 Ver repositorio del proyecto Memor.IA</a>
   </a>
 
 <br>
