@@ -72,21 +72,14 @@ Construí la aplicación desde cero, desde la conceptualización y el diseño de
 
 <br>
 
-## Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Herbey1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Herbey1's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbey1&layout=compact&theme=tokyonight&hide_border=true" alt="Herbey1's Top Languages" />
-</p>
-
-<br>
-
 ## Contacto
 
 Estoy buscando activamente oportunidades para comenzar mi carrera y aportar valor a un equipo. ¡No dudes en contactarme!
 
-<p align="left">
-  <a href="[https://www.linkedin.com/in/carlos-herbey-gamez-gaxiola-a1a771287/?locale=en]" target="_blank">
+<br>l
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/carlos-herbey-gamez-gaxiola-a1a771287/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a href="mailto:[carlos.gamez38@gmail.com]" target="_blank">
