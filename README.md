@@ -76,16 +76,16 @@ Construí la aplicación desde cero, desde la conceptualización y el diseño de
 
 Estoy buscando activamente oportunidades para comenzar mi carrera y aportar valor a un equipo. ¡No dudes en contactarme!
 
-<br>l
+<br>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/carlos-herbey-gamez-gaxiola-a1a771287/]" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-herbey-gamez-gaxiola-a1a771287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:[carlos.gamez38@gmail.com]" target="_blank">
+  <a href="mailto:carlos.gamez38@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
-  <a href="[https://portfolio-phi-ten-19.vercel.app/]" target="_blank">
+  <a href="https://portfolio-phi-ten-19.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-WebApp-blue?style=for-the-badge&logo=appveyor">
   </a>
 </p>
