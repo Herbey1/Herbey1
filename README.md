@@ -52,8 +52,8 @@ Lideré el diseño de la base de datos, realicé la conexión completa entre el 
 **Tecnologías:** `React` `Node.js` `PostgreSQL` `Docker` `Git` `Figma`
 
 <a href="https://github.com/Herbey1/ServicioP2" target="_blank">
-  [🔗 Ver repositorio del proyecto SGCA](https://github.com/Herbey1/ServicioP2)
-  </a>
+  <a href="https://github.com/Herbey1/ServicioP2" target="_blank">🔗 Ver repositorio del proyecto SGCA</a>
+</a>
 
 <br>
 <br>
@@ -67,7 +67,7 @@ Construí la aplicación desde cero, desde la conceptualización y el diseño de
 **Tecnologías:** `React` `Node.js` `[Tu Base de Datos, ej: MongoDB]` `Spotify API` `[API de Pagos, ej: Stripe]`
 
 <a href="[URL_A_TU_REPOSITORIO_DE_PLAYLIST_ROYALE]" target="_blank">
-  <img src="[URL_A_TU_IMAGEN_DE_PLAYLIST_ROYALE_EN_LA_CARPETA_ASSETS.png]" alt="Captura de pantalla de Playlist Royale">
+  <a href="https://github.com/Herbey1/ServicioP2" target="_blank">🔗 Ver repositorio del proyecto SGCA</a>
   </a>
 
 <br>
