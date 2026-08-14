@@ -52,7 +52,7 @@ Lideré el diseño de la base de datos, realicé la conexión completa entre el 
 **Tecnologías:** `React` `Node.js` `PostgreSQL` `Docker` `Git` `Figma`
 
 <a href="https://github.com/Herbey1/ServicioP2" target="_blank">
-  <img src="https://github.com/Herbey1/ServicioP2/raw/main/src/images/login-image.jpg" alt="Captura de pantalla del proyecto SGCA">
+  [🔗 Ver repositorio del proyecto SGCA](https://github.com/Herbey1/ServicioP2)
   </a>
 
 <br>
