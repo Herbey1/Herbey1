@@ -1,14 +1,14 @@
 # Carlos Herbey Gamez Gaxiola
 > Ingeniero en software.
 
-Soy Herbey, un Ingeniero de Software en etapa final de formación, apasionado por transformar problemas complejos en software limpio, eficiente y centrado en el usuario.
+Soy Herbey Gamez, Ingeniero de Software, apasionado por transformar problemas complejos en software limpio, eficiente y centrado en el usuario.
 
-Me especializo en construir aplicaciones Full-Stack desde el concepto hasta el despliegue, con un enfoque en el impacto en el mundo real, la arquitectura de backend robusta y el trabajo en equipo colaborativo.
+Me especializo en construir aplicaciones Full-Stack desde el concepto hasta el despliegue, con un enfoque en el impacto en el mundo real, la arquitectura de backend y el trabajo en equipo colaborativo.
 
-- 👨‍💻 Actualmente estudiante de último semestre de **Ingeniería de Software y Tecnologías Emergentes**.
-- 🚀 Apasionado por la arquitectura de sistemas y el desarrollo de soluciones escalables.
-- 💡 Mi enfoque: Código limpio, UX intuitiva y un backend robusto.
-- 🌱 Siempre aprendiendo y buscando nuevos retos para crecer como profesional.
+-  Recién egresado de **Ingeniería de Software y Tecnologías Emergentes**.
+-  Apasionado por la arquitectura de sistemas y el desarrollo de soluciones escalables.
+-  Mi enfoque: Código limpio, UX intuitiva y un backend robusto.
+-  Siempre aprendiendo y buscando nuevos retos para crecer como profesional.
 
 <br>
 
